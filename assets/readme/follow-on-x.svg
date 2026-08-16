@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="200" viewBox="0 0 840 200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f1419"/>
+      <stop offset="1" stop-color="#1c2530"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="832" height="192" rx="28" fill="url(#bg)" stroke="#2f3b47" stroke-width="2"/>
+  <g transform="translate(70,52) scale(4)">
+    <path fill="#ffffff" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+  </g>
+  <text x="200" y="92" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#ffffff">Follow me on X</text>
+  <text x="200" y="142" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="400" fill="#8b98a5">@JoshXie1</text>
+  <g transform="translate(640,58)">
+    <rect width="150" height="84" rx="42" fill="#ffffff"/>
+    <text x="75" y="55" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#0f1419">Follow</text>
+  </g>
+</svg>
